@@ -6,8 +6,14 @@ This repository contains code snippets for Machine Learning in Python. The goal 
 ## Models and Algorithms Included
 ```
 1) Linear Regression
-2) K Nearest Neighbors
-3) [More Coming]
+2) K Nearest Neighbors [Upcoming]
+3) Support Vector Machines [Upcoming]
+4) K Means Clustering [Upcoming]
+5) Deep Learning/Neural Networks [Upcoming]
+6) Convolutional Neural Network [Upcoming]
+7) Recurrent Neural Network [Upcoming]
+8) Logistics Regression [Upcoming]
+9) Random Forest - CART [Upcoming]
 ```
 
 ## Modules Needed
